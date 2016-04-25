@@ -1,19 +1,26 @@
-// sample robot control program. rgb led color varies with pot value,
-// while servo arm shakes after the fsr is pressed and then released.
+// RobotControl
+//
+// Sample robot control program
+//   led fade rate varies with pot value
+//   servo arm shakes after the fsr is pressed and then released.
+// 
+// Developed on Adafruit Metro Mini (Arduino UNO clone)
 
 #include <Servo.h> 
 
-int sensorPin = A0;    // any analog input pin will do: A0-A5, A6-A11
-int sensorValue = 0;
+int potPin = A0;        // any analog input pin will do: A0-A5, A6-A11
+int potValue = 0;
 
-int redPin = 9;        // these 3 pins must allow pwm output: for the
-int greenPin = 10;     // arduino micro, use 3, 5, 6, 9, 10, 11 or 13
-int bluePin = 11;
+int ledPin = 11;        // this pin must allow pwm output: for the
+                        // metro mini, use 3, 5, 6, 11 or 13
+                        // note! this cannot be 9, 10 becasue the servo
+                        //  library uses those and analogWrite() does
+                        //  not work on them anymore
 
 // these are new variables to hold the fsr's value and detect whether
 // that force is large enough for a "press."
 
-int fsrPin = A1;       // any analog input pin will do: A0-A5, A6-A11
+int fsrPin = A5;       // any analog input pin will do: A0-A5
 int fsrValue = 0;
 
 int pressValue = 64;   // force greater than threshold to shake hands
@@ -22,20 +29,18 @@ int releaseValue = 16; // value below which to expect fsr is released
 boolean pressed;       // indicates if fsr is currently being pressed
 
 Servo myservo;         // creates a servo object (from servo library)
-int servoPin = 6;      // an unused pwm pin: 3, 5, 6, 9, 10, 11 or 13
+int servoPin = 3;      // an unused pwm pin: 3, 5, 6, 9, 10, 11 or 13
 
 // initialize servo object and set position to 0, then setup pin I/O.
 
 void setup() {
-  pinMode(redPin, OUTPUT);
-  pinMode(greenPin, OUTPUT);
-  pinMode(bluePin, OUTPUT);
-  
   pinMode(servoPin, OUTPUT);
   myservo.attach(servoPin);
   
   myservo.write(0);
   delay(5);
+
+  pinMode(ledPin, OUTPUT);
 }
 
 // check the pot's position, then set eye colors based on that value.
@@ -45,11 +50,10 @@ void setup() {
 // ranges from 0-1023, while its pwm output ranges (just) from 0-256.
 
 void loop() {
-  sensorValue = analogRead(sensorPin) / 4;
+  potValue = analogRead(potPin);
+  potValue = map(potValue, 0, 1023, 0, 255);
 
-  analogWrite(redPin, sensorValue);
-  analogWrite(greenPin, 255 - sensorValue);
-  analogWrite(bluePin, sensorValue);
+  analogWrite(ledPin, potValue);
   
   delay(10);
   
@@ -60,7 +64,7 @@ void loop() {
   }
   
   if (pressed) {
-    if (fsrValue < releaseValu) {
+    if (fsrValue < releaseValue) {
       for (int pos = 0; pos < 90; pos++) {
         myservo.write(pos);
         delay(5);
