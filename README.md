@@ -15,5 +15,5 @@ This repo containts the source materials for the Make This! - Introduction to El
 4. Have fun playing with your robot!
 
 ## Course Guide:
-
+https://github.com/CDR-IxD/makeThis-CHI16/blob/master/Make%20This!.pdf
 
