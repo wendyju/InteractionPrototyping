@@ -1,5 +1,5 @@
-# makeThis-CHI16
-Materials for Make This! at CHI 16
+# makeThis-CHI Course
+Materials for Make This! at CHI '17
 
 David Sirkin, Nik Martelaro, Wendy Ju
 
@@ -13,8 +13,7 @@ This repo containts the source materials for the Make This! - Introduction to El
 2. Download the `robotControl.ino` file
 3. Open `robotControl.ino` in Arduino IDE and program robot
 4. Have fun playing with your robot!
-5. 
 
 ## Course Guide:
 
-https://www.dropbox.com/s/mq4ysdre4usd9vl/Make%20This%21.pdf?dl=0
+
