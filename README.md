@@ -9,7 +9,7 @@ Stanford University
 This repo containts the source materials for the Make This! - Introduction to Electronics Prototypig with Arduino at CHI '16 in San Jose, CA.
 
 ## Instructions:
-1. Build robot circuit with Arduino, servo, LEDs, and FSR
+1. Build robot circuit with Arduino, servo, LEDs, potentiometer, and FSR
 2. Download the `robotControl.ino` file
 3. Open `robotControl.ino` in Arduino IDE and program robot
 4. Have fun playing with your robot!
