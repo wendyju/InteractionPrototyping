@@ -17,8 +17,8 @@ This course is a hands-on introduction to interactive electronics prototyping fo
 
 ## Instructors
 
-David Sirkin is Executive Director for Interaction Design Research at the Center for Design Research at Stanford. He teaches design methodology, and studies human-robot and autonomous vehicle interaction. He received his PhD from Stanford, and Masters degrees in EECS and Management from MIT.
+**David Sirkin** is Executive Director for Interaction Design Research at the Center for Design Research at Stanford. He teaches design methodology, and studies human-robot and autonomous vehicle interaction. He received his PhD from Stanford, and Masters degrees in EECS and Management from MIT.
 
-Nikolas Martelaro is a researcher at Accenture Technology Labs. His research includes creating new tools to support interaction design with interactive and intelligent objects. Additionally, he is interested in how new tools shape how designers work. Nik holds a PhD in ME Design from Stanford.
+**Nikolas Martelaro** is a researcher at Accenture Technology Labs. His research includes creating new tools to support interaction design with interactive and intelligent objects. Additionally, he is interested in how new tools shape how designers work. Nik holds a PhD in ME Design from Stanford.
 
-Wendy Ju is an Assistant Professor of Information Science with the Jacobs Technion-Cornell Institute at Cornell Tech in NYC. She received her PhD from Stanford and her Masters from the MIT Media Lab, and is the author of \textit{The Design of Implicit Interactions}, available from Morgan and Claypool.
+**Wendy Ju** is an Assistant Professor of Information Science with the Jacobs Technion-Cornell Institute at Cornell Tech in NYC. She received her PhD from Stanford and her Masters from the MIT Media Lab, and is the author of \textit{The Design of Implicit Interactions}, available from Morgan and Claypool.
