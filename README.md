@@ -10,6 +10,15 @@ David Sirkin<sup>1</sup>, Nikolas Martelaro<sup>2</sup>, Wendy Ju<sup>3</sup>
 
 Tuesday 9am, 2 units
 
-[![](http://img.youtube.com/vi/vkYpDjRfAhw/0.jpg)](http://www.youtube.com/watch?v=vkYpDjRfAhw "Make This!")
+[![](https://youtu.be/9QaXRvrc0Y0/0.jpg)](https://youtu.be/9QaXRvrc0Y0 "Make This!")
 
+## Course description
 This course is a hands-on introduction to interactive electronics prototyping for people with a variety of backgrounds, including those with no prior experience in electronics. Familiarity with programming is helpful, but not required. Participants learn basic electronics, microcontroller programming and physical prototyping using the Arduino platform, then use digital and analog sensors, LED lights and motors to build, program and customize a small paper robot.
+
+## Instructor bios
+
+David Sirkin is Executive Director for Interaction Design at Stanford’s Center for Design Research
+
+Nikolas Martelaro is a researcher at Accenture Technology Labs. His research includes creating new tools to support interaction design with interactive and intelligent objects. Additionally, Nik is interested in how new tools shape how designers work.
+
+Wendy Ju is Assistant Professor at the Jacobs Technion-Cornell Institute at Cornell Tech. She received her PhD from Stanford and a Masters degree from the MIT Media Lab, and is the author of The Design of Implicit Interactions, available from Morgan and Claypool.
