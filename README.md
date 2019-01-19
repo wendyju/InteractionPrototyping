@@ -1,5 +1,5 @@
-# Make This! Introduction to Electronics Prototyping with Arduino
-[CHI 2019 Course](https://chi2019.acm.org/accepted-courses/)
+# Make This!\ Introduction to Electronics Prototyping with Arduino
+[CHI 2019 Course](https://chi2019.acm.org/accepted-courses/)\
 Glasgow UK
 
 Registration: [http://chi2019.acm.org/for-attendees/registration/](http://chi2019.acm.org/for-attendees/registration/)
