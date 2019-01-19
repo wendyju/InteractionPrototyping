@@ -10,5 +10,4 @@ David Sirkin*, Nikolas Martelaro**, Wendy Ju***
 
 \*** Cornell Tech
 
-
-[![Trailer video](https://youtu.be/vkYpDjRfAhw/0.jpg)](https://youtu.be/vkYpDjRfAhw "Make This!")
+[![](http://img.youtube.com/vi/vkYpDjRfAhw/0.jpg)](http://www.youtube.com/watch?v=vkYpDjRfAhw "Make This!")
