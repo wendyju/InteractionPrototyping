@@ -5,7 +5,9 @@ Glasgow UK
 David Sirkin*, Nikolas Martelaro**, Wendy Ju***
 
 \* Center for Design Research, Stanford University
+
 \** Accenture Technology Labs
+
 \*** Cornell Tech
 
 
