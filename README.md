@@ -12,7 +12,7 @@ Tuesday 9am, 2 units
 
 [![](http://img.youtube.com/vi/9QaXRvrc0Y0/0.jpg)](https://youtu.be/9QaXRvrc0Y0 "Make This!")
 
-## Course description
+## Course Description
 This course is a hands-on introduction to interactive electronics prototyping for people with a variety of backgrounds, including those with no prior experience in electronics. Familiarity with programming is helpful, but not required. Participants learn basic electronics, microcontroller programming and physical prototyping using the Arduino platform, then use digital and analog sensors, LED lights and motors to build, program and customize a small paper robot.
 
 ## Instructors
