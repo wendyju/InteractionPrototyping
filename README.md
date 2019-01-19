@@ -4,7 +4,7 @@ Glasgow UK
 
 Registration: [http://chi2019.acm.org/for-attendees/registration/](http://chi2019.acm.org/for-attendees/registration/)
 
-David Sirkin, Stanford University  
+David Sirkin, Stanford University<br />
 Nikolas Martelaro, Accenture Technology Labs  
 Wendy Ju, Cornell Tech
 
