@@ -15,7 +15,7 @@ Tuesday 9am, 2 units
 ## Course description
 This course is a hands-on introduction to interactive electronics prototyping for people with a variety of backgrounds, including those with no prior experience in electronics. Familiarity with programming is helpful, but not required. Participants learn basic electronics, microcontroller programming and physical prototyping using the Arduino platform, then use digital and analog sensors, LED lights and motors to build, program and customize a small paper robot.
 
-## Instructor Bios
+## Instructors
 
 David Sirkin is Executive Director for Interaction Design Research at the Center for Design Research at Stanford. He teaches design methodology, and studies human-robot and autonomous vehicle interaction. He received his PhD from Stanford, and Masters degrees in EECS and Management from MIT.
 
