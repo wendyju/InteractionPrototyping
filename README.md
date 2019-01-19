@@ -6,9 +6,7 @@ Registration: [http://chi2019.acm.org/for-attendees/registration/](http://chi201
 
 David Sirkin<sup>1</sup>, Nikolas Martelaro<sup>2</sup>, Wendy Ju<sup>3</sup>
 
-<sup>1</sup>Center for Design Research, Stanford University
-<sup>2</sup>Accenture Technology Labs
-<sup>3</sup>Cornell Tech
+<sup>1</sup>Stanford University, <sup>2</sup>Accenture Technology Labs, <sup>3</sup>Cornell Tech
 
 Tuesday 9am, 2 units
 
