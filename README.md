@@ -1,11 +1,11 @@
 # Make This! Introduction to Electronics Prototyping with Arduino
-[CHI 2019 Course](https://chi2019.acm.org/accepted-courses/)&nbsp;
+[CHI 2019 Course](https://chi2019.acm.org/accepted-courses/)  
 Glasgow UK
 
 Registration: [http://chi2019.acm.org/for-attendees/registration/](http://chi2019.acm.org/for-attendees/registration/)
 
-David Sirkin, Stanford University&nbsp;
-Nikolas Martelaro, Accenture Technology Labs&nbsp;
+David Sirkin, Stanford University  
+Nikolas Martelaro, Accenture Technology Labs  
 Wendy Ju, Cornell Tech
 
 Tuesday 9am, 2 units
