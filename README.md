@@ -2,14 +2,12 @@
 [CHI 2019 Course](https://chi2019.acm.org/accepted-courses/)
 Glasgow UK
 
-Registration: http://chi2019.acm.org/for-attendees/registration/
+Registration: [http://chi2019.acm.org/for-attendees/registration/](http://chi2019.acm.org/for-attendees/registration/)
 
 David Sirkin<sup>1</sup>, Nikolas Martelaro<sup>2</sup>, Wendy Ju<sup>3</sup>
 
 <sup>1</sup>Center for Design Research, Stanford University
-
 <sup>2</sup>Accenture Technology Labs
-
 <sup>3</sup>Cornell Tech
 
 Tuesday 9am, 2 units
