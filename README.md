@@ -5,5 +5,5 @@ David Sirkin, Stanford University<br />
 Nikolas Martelaro, Accenture Technology Labs  
 Wendy Ju, Cornell Tech
 
-[Tutorial instructions](make this-Design6151.pdf)
+[Tutorial instructions](https://github.com/wendyju/InteractionPrototyping/blob/master/make%20this-Design6151.pdf)
 
