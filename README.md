@@ -5,5 +5,5 @@ David Sirkin, Stanford University<br />
 Nikolas Martelaro, Accenture Technology Labs  
 Wendy Ju, Cornell Tech
 
-[Tutorial instructions]()
+[Tutorial instructions](make this-Design6151.pdf)
 
